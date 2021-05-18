@@ -1,2 +1,4 @@
 # hello-world
-First practice and understanding the GIT structure with Hello world example.
+First practice
+This is Jay. I want to Welcome you to my world.
+
